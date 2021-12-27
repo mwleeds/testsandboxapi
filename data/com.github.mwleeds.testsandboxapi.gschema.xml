@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="testsandboxapi">
+	<schema id="com.github.mwleeds.testsandboxapi" path="/com/github/mwleeds/testsandboxapi/">
+	</schema>
+</schemalist>

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=testsandboxapi
+Exec=testsandboxapi
+Icon=com.github.mwleeds.testsandboxapi
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

@@ -1,0 +1,7 @@
+data/com.github.mwleeds.testsandboxapi.desktop.in
+data/com.github.mwleeds.testsandboxapi.appdata.xml.in
+data/com.github.mwleeds.testsandboxapi.gschema.xml
+src/testsandboxapi-window.ui
+src/main.c
+src/testsandboxapi-window.c
+
